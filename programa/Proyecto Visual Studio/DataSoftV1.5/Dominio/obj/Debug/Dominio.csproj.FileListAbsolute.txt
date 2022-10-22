@@ -1,0 +1,51 @@
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\Dominio.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\obj\Debug\Dominio.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\Encriptacion.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Dominio\bin\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\Dominio.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\Dominio.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\obj\Debug\Dominio.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Dominio\obj\Debug\Dominio.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\Dominio.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\Dominio.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\AccesoOracle.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\obj\Debug\Dominio.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Dominio\obj\Debug\Dominio.pdb

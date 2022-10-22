@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5FF44F03-60EB-4CFC-B826-1B9CED0EB896}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dominio</RootNamespace>
+    <AssemblyName>Dominio</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.18.3, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.18.6.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAjustes\DCategoriaServicio.cs" />
+    <Compile Include="DAjustes\DCategoria.cs" />
+    <Compile Include="DAjustes\DClientes.cs" />
+    <Compile Include="DAjustes\DColor.cs" />
+    <Compile Include="DAjustes\DGenerarCompra.cs" />
+    <Compile Include="DAjustes\DGenerarVenta.cs" />
+    <Compile Include="DAjustes\DGenero.cs" />
+    <Compile Include="DAjustes\DMarca.cs" />
+    <Compile Include="DAjustes\DProducto.cs" />
+    <Compile Include="DAjustes\DProveedor.cs" />
+    <Compile Include="DAjustes\DReportes.cs" />
+    <Compile Include="DAjustes\DSucursal.cs" />
+    <Compile Include="DAjustes\DTipoDocumento.cs" />
+    <Compile Include="DAjustes\DTipoPago.cs" />
+    <Compile Include="DAjustes\DUsuarios.cs" />
+    <Compile Include="Modelos\Clientes.cs" />
+    <Compile Include="ModeloUsuario.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoOracle\AccesoOracle.csproj">
+      <Project>{2f0d4e39-a719-4de8-a511-4a00710b0b95}</Project>
+      <Name>AccesoOracle</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Encriptacion\Encriptacion.csproj">
+      <Project>{6e6da451-c00c-45b5-82eb-dc6f9fc82006}</Project>
+      <Name>Encriptacion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EnMemoria\EnMemoria.csproj">
+      <Project>{176314c9-49cf-46d5-8af1-bb85d79e10d5}</Project>
+      <Name>EnMemoria</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

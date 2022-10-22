@@ -1,0 +1,18 @@
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Validar\bin\Debug\Validar.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Validar\bin\Debug\Validar.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Validar\obj\Debug\Validar.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Validar\obj\Debug\Validar.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Validar\obj\Debug\Validar.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Validar\obj\Debug\Validar.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Validar\bin\Debug\Validar.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Validar\bin\Debug\Validar.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Validar\obj\Debug\Validar.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Validar\obj\Debug\Validar.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Validar\obj\Debug\Validar.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Validar\obj\Debug\Validar.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Validar\bin\Debug\Validar.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Validar\bin\Debug\Validar.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Validar\obj\Debug\Validar.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Validar\obj\Debug\Validar.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Validar\obj\Debug\Validar.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Validar\obj\Debug\Validar.pdb

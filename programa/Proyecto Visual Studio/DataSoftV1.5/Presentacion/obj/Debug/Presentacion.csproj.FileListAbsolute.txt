@@ -1,0 +1,5 @@
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Presentacion\obj\Debug\DataSoft1._0.Form1.resources
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache

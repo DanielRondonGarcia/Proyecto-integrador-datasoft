@@ -1,0 +1,185 @@
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Personas.exe.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Personas.exe
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Personas.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Dominio.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Dominio.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.Form1.resources
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.Properties.Resources.resources
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.GenerateResource.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CopyComplete
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.exe
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\obj\Debug\Personas.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\EnMemoria.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\EnMemoria.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Personas.exe.config
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Personas.exe
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Personas.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Dominio.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\EnMemoria.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Dominio.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\EnMemoria.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.Form1.resources
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.Properties.Resources.resources
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.GenerateResource.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CopyComplete
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.exe
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\obj\Debug\Personas.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.6\DataSoftV1.5\Personas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Dominio.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\EnMemoria.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Admin.exe
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Admin.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Admin.exe.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Encriptacion.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Encriptacion.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Validar.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Validar.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Gerente.exe
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Gerente.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Gerente.exe.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Operador.exe
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Operador.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\Operador.exe.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\FlashControlV71.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\stdole.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Personas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.Form1.resources
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.Properties.Resources.resources
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.exe
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Personas.exe.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Personas.exe
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Personas.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Admin.exe
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Dominio.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Gerente.exe
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Operador.exe
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Validar.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\FlashControlV71.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\stdole.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Admin.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Admin.exe.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Gerente.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Gerente.exe.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Operador.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Operador.exe.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Dominio.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Dominio.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Validar.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CopyComplete
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Personas.exe.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Personas.exe
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Personas.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Admin.exe
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Dominio.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Gerente.exe
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Operador.exe
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Validar.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\FlashControlV71.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\stdole.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Admin.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Admin.exe.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Gerente.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Gerente.exe.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Operador.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Operador.exe.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\AccesoOracle.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Dominio.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Dominio.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Validar.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.Form1.resources
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.Properties.Resources.resources
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.csproj.CopyComplete
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.exe
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Personas\obj\Debug\Personas.pdb

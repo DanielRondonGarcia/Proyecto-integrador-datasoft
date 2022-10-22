@@ -1,0 +1,46 @@
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\bin\Debug\DataSoftGerente.exe.config
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\bin\Debug\DataSoftGerente.exe
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\bin\Debug\DataSoftGerente.pdb
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.AjusteCuenta.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.Cuentas.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.FormAdmin.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.Properties.Resources.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csproj.CopyComplete
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.exe
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.pdb
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.ProveedoresAdmin.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.AjustesAdmin.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.InicioAdmin.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.InventarioAdmin.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.VentasAdmin.resources
+C:\Users\danie\source\repos\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.VentasClientasAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\bin\Debug\DataSoftGerente.exe.config
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\bin\Debug\DataSoftGerente.exe
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\bin\Debug\DataSoftGerente.pdb
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csprojAssemblyReference.cache
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.AjusteCuenta.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.AjustesAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.Cuentas.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.FormAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.InicioAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.InventarioAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.Properties.Resources.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.ProveedoresAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.VentasAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.VentasClientasAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csproj.GenerateResource.cache
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftAdmin.csproj.CopyComplete
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.exe
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.pdb
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.BuscarClienteFiltro.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.GenerarVentaAdmin.resources
+C:\Users\Kandriws\Desktop\Todo\Programación\4to semestre\DATASOFT\DataSoftAdmin\DataSoftGerente\obj\Debug\DataSoftGerente.Ventas.AgregarProductosFiltro.resources

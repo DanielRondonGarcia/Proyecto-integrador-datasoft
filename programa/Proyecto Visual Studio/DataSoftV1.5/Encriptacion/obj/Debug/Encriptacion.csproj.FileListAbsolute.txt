@@ -1,0 +1,18 @@
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Encriptacion\bin\Debug\Encriptacion.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Encriptacion\bin\Debug\Encriptacion.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.csprojAssemblyReference.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Encriptacion\bin\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Encriptacion\bin\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Encriptacion\bin\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Encriptacion\bin\Debug\Encriptacion.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\Encriptacion\obj\Debug\Encriptacion.pdb

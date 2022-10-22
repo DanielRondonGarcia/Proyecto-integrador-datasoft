@@ -1,0 +1,39 @@
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csprojAssemblyReference.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csproj.CopyComplete
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csproj.CopyComplete
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\AccesoOracle.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.csproj.CopyComplete
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\AccesoOracle\obj\Debug\AccesoOracle.pdb

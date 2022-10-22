@@ -1,0 +1,27 @@
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csprojAssemblyReference.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.pdb
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.dll.config
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kandriws\source\repos\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csproj.CopyComplete
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csproj.CopyComplete
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\esta\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.dll.config
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\bin\Debug\EnMemoria.pdb
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.csproj.CopyComplete
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.dll
+C:\Users\danie\Desktop\Proyecto Integrado 4L\programa\Proyecto Visual Studio\DataSoftV1.5\EnMemoria\obj\Debug\EnMemoria.pdb
